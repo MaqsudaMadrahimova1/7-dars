@@ -1,3 +1,1 @@
-function d(e){
-
-}
+console.log("dars");
